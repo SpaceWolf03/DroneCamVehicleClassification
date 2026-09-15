@@ -1,4 +1,4 @@
-# FlytBase Traffic Analysis Agent
+# FlytBase Traffic Analysis
 
 This repository begins with the Level 1 foundation: detect road users, keep a stable ID with ByteTrack, and export trajectories in a format that later levels can use for movement counts, speeds, lane assignment, and map grounding.
 
