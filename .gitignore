@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Large model files and generated inference artefacts
+*.pt
+outputs/
+runs/
+Intersection_Merged.MP4
+Multi_Road_Merged.MP4
+
