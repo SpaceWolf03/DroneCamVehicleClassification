@@ -1,0 +1,7 @@
+Collecting lap
+  Downloading lap-0.5.13-cp312-cp312-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl.metadata (6.6 kB)
+Requirement already satisfied: numpy>=1.21.6 in ./.venv/lib/python3.12/site-packages (from lap) (2.5.2)
+Downloading lap-0.5.13-cp312-cp312-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl (1.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.7/1.7 MB 10.0 MB/s  0:00:00
+Installing collected packages: lap
+Successfully installed lap-0.5.13

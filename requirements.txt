@@ -1,0 +1,7 @@
+ultralytics>=8.4.0
+opencv-python>=4.10.0
+numpy>=2.0.0
+lap>=0.5.12
+transformers>=4.57.0
+pillow>=10.0.0
+sahi>=0.11.15

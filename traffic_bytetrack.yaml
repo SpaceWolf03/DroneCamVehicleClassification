@@ -1,0 +1,11 @@
+# ByteTrack profile for dense aerial road traffic.
+# It is intentionally more conservative about starting a new ID and keeps
+# temporarily lost objects alive for roughly three seconds at 30 fps.
+tracker_type: bytetrack
+track_high_thresh: 0.25
+track_low_thresh: 0.10
+new_track_thresh: 0.35
+# Keep tracks alive for the entire run (effectively no expiry). Set very large buffer so IDs are not removed during the video.
+track_buffer: 9999999
+match_thresh: 0.80
+fuse_score: true
